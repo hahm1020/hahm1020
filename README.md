@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm [Hahm Sung Won]  
 
 🚀 **Backend & Frontend Developer**  
 💻 **Backend:** Java, Python  
