@@ -28,7 +28,7 @@
 
 ### 📫 Connect with me
 📧 Email: hahm1020@naver.com
-💬 GitHub: [github.com/yourusername](https://github.com/hahm1020)  
+💬 GitHub: [github.com/hahm](https://github.com/hahm1020)  
 
 ---
 ⭐ **Like my work? Feel free to follow me!**  
